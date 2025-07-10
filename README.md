@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/yasv2807" target="blank"><img src="https://img.shields.io/twitter/follow/yasv2807?logo=twitter&style=for-the-badge" alt="yasv2807" /></a> </p>
 
-- 🌱 I’m currently learning **Next.JS, Java**
+- 🌱 I’m currently learning **Nuxt.js, Laravel**
 
 - 💬 Ask me about **MERN, Python**
 
